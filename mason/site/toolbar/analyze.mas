@@ -2,6 +2,7 @@
   <ul class="dropdown-menu">
     <li><a href="http://nea.sgn.cornell.edu" target="_blank">Expression Atlas</a></li>
     <li><a href="http://nicotiana.sgn.cornell.edu/NITAB5/organism-summary" target="_blank">C. sativa Cyc</a></li>
+    <li><a href="https://bat-vigs.breedbase.org">BAT VIGS Tools</a></li>
     <li><a href="/accession_usage">Accession Usage</a></li>
     <li><a href="/tools/graphicalfiltering">Graphical Filtering</a></li>
     <li><a href="/barcode">Barcode Tools</a></li>
